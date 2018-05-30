@@ -1,0 +1,15 @@
+{
+    "name": "bot",
+    "description": "",
+    "secretKey": "",
+    "services": [
+        {
+            "appId": "",
+            "id": "6febb050-63ce-11e8-b959-674532856ac3",
+            "type": "endpoint",
+            "appPassword": "",
+            "endpoint": "127.0.0.1:3978/api/messages",
+            "name": "127.0.0.1:3978/api/messages"
+        }
+    ]
+}
